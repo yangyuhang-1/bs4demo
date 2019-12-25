@@ -1,0 +1,52 @@
+ul {
+	margin: 0;
+	padding: 0;
+}
+.bgl {
+	width: 12rem;
+	height:56.25rem;
+	margin-top: 3.5rem;
+	padding-top: 1rem;
+	background: #283643;
+}
+.bgr{
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 3.5rem 0 0 12rem;
+	width: calc(100% - 12rem);
+	height: calc(100% - 3.5rem);
+	overflow:auto;
+}
+.bgt{
+	background-color:#6c757d;
+}
+.nav li:hover {
+	background: #3c4248;
+}
+.a1{
+	line-height: 3rem;
+	padding:0 2rem 0;
+	height: 3rem;
+}
+.wz{
+	margin-left: 1rem;
+}
+.bd{
+	border-top:#fff; 
+}
+.dx{
+	margin-left:2rem;
+}
+.sj{
+	margin-top: 1.5rem;
+	margin-bottom: 1rem;
+
+}
+.sj1{
+	margin-right: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+.dj{
+  background: #3C4248;
+}
